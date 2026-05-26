@@ -16,7 +16,9 @@ The main goal of phishing attacks is to steal data, gain unauthorized access, de
 
 Phishing email analysis helps cybersecurity professionals identify malicious indicators, investigate attacker behavior, and prevent security incidents through threat detection and incident response.
 
-# ANY.RUN is an interactive online malware analysis and sandbox platform used by cybersecurity professionals, SOC analysts, and threat researchers for investigating phishing emails, malicious files, suspicious URLs, and malware behavior in real time.
+# ANY.RUN 
+
+It is an interactive online malware analysis and sandbox platform used by cybersecurity professionals, SOC analysts, and threat researchers for investigating phishing emails, malicious files, suspicious URLs, and malware behavior in real time.
 
 It provides a safe virtual environment to analyze threats dynamically by monitoring processes, network traffic, system activities, dropped files, registry changes, and indicators of compromise (IOCs). The platform is widely used for incident response, threat hunting, malware analysis, and phishing investigations.
 
